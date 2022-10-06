@@ -1,4 +1,4 @@
-# Your project title
+# PORTFOLIO PAGE 2
 
 ![image](https://user-images.githubusercontent.com/52622303/164316813-4b12d99f-aeb7-4069-85cf-e72b3a50ac99.png)
 
@@ -35,7 +35,7 @@ git@github.com:mmunkvold/portfolio-2.git
 npm install
 ```
 
-3. To run the app, run the following commands:
+3. To run the app, run the following command:
 
 ```bash
 npm run dev
