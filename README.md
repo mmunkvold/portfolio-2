@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/52622303/164316813-4b12d99f-aeb7-4069-85cf-e72b3a50ac99.png)
 
-Portfolio page.
+Portfolio page
 
 ## Description
 
@@ -15,8 +15,6 @@ Projects shown:
 - Semester Project 2 - using a local api to show an ecommerce site - Run Shoe, Run!
 
 ## Built With
-
-You can list a the tech stack that you've used over here
 
 - [Vue.js](https://vuejs.org/)
 - CSS (plain vanilla css)
