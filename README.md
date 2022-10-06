@@ -1,6 +1,6 @@
 # PORTFOLIO PAGE 2
 
-    <img src="https://github.com/mmunkvold/portfolio-2/blob/main/src/assets/portfolio.png" width="450" alt="Portfolio home page">
+<img src="https://github.com/mmunkvold/portfolio-2/blob/master/src/assets/portfolio.png" width="450" alt="Portfolio home page">
 
 Portfolio page
 
