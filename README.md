@@ -2,7 +2,7 @@
 
 <img src="https://github.com/mmunkvold/portfolio-2/blob/master/src/assets/portfolio.png" width="450" alt="Portfolio home page">
 
-Portfolio page
+[Portfolio page](https://zesty-paletas-6cdc0a.netlify.app/)
 
 ## Description
 
