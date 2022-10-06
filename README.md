@@ -1,8 +1,8 @@
 # PORTFOLIO PAGE 2
 
-![image](https://user-images.githubusercontent.com/52622303/164316813-4b12d99f-aeb7-4069-85cf-e72b3a50ac99.png)
+    <img src="https://github.com/mmunkvold/portfolio-2/blob/main/src/assets/portfolio.png" width="450" alt="Portfolio home page">
 
-[Portfolio page](https://zesty-paletas-6cdc0a.netlify.app/)
+Portfolio page
 
 ## Description
 
