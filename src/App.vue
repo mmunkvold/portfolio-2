@@ -13,4 +13,8 @@ import Header from "./components/Header.vue";
   <footer>©Monica M Nikolaisen 2022</footer>
 </template>
 
-<style></style>
+<style>
+footer{
+text-align:center;
+}
+</style>
