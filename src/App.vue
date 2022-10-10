@@ -15,6 +15,7 @@ import Header from "./components/Header.vue";
 
 <style>
 footer{
+margin-top:2em;
 text-align:center;
 }
 </style>
