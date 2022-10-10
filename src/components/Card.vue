@@ -8,6 +8,7 @@
         <slot name="heading"></slot>
       </h2>
     </div>
+    <hr>
      <div class="description">
       <slot name="description"></slot>
     </div>
