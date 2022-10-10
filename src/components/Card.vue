@@ -30,6 +30,9 @@
   padding: 2em;
 }
 
+.description{
+text-align:left}
+
 .image {
   width: 100%;
   margin: 0 auto 1em;
