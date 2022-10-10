@@ -27,7 +27,10 @@ export default {
         <img :src="image1" />
       </template>
 
-      <template #description>Project Exam 2</template>
+      <template #description>
+        <p>Project Exam 2</p>
+        <p> - booking site with contact7enquiry form and an admin area where you can read messages and make changes</p>
+        </template>
 
       <template #heading>Holidaze</template>
 
@@ -42,7 +45,10 @@ export default {
         <img :src="image2" />
       </template>
 
-      <template #description>JS Frameworks Course Assignment</template>
+      <template #description>
+      <p>JS Frameworks Course Assignment</p>
+      <p>- api call to fetch Star Wars Characters and display both all and single result, and login to admin area</p>
+      </template>
 
       <template #heading>Star Wars Characters</template>
 
@@ -57,7 +63,10 @@ export default {
         <img :src="image3" />
       </template>
 
-      <template #description>Semester Project 2</template>
+      <template #description>
+      <p>Semester Project 2</p>
+      <p>- eccommerce site showing shoes from api, a shopping cart and admin area where you can do changes</p>
+      </template>
 
       <template #heading>Run Shoe, Run!</template>
 
