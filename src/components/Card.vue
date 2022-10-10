@@ -3,13 +3,13 @@
     <div class="image">
       <slot name="image"></slot>
     </div>
-    <div class="description">
-      <slot name="description"></slot>
-    </div>
     <div class="heading">
       <h2>
         <slot name="heading"></slot>
       </h2>
+    </div>
+     <div class="description">
+      <slot name="description"></slot>
     </div>
     <div class="links">
       <slot name="links"></slot>
