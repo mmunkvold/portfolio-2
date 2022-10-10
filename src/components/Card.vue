@@ -31,8 +31,8 @@
 }
 
 .description{
-text-align:left
-margin-top:1em
+text-align:left;
+margin-top:1em;
 }
 
 .image {
