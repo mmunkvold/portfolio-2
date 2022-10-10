@@ -8,7 +8,6 @@
         <slot name="heading"></slot>
       </h2>
     </div>
-    <hr>
      <div class="description">
       <slot name="description"></slot>
     </div>
@@ -32,7 +31,9 @@
 }
 
 .description{
-text-align:left}
+text-align:left
+margin-top:1em
+}
 
 .image {
   width: 100%;
