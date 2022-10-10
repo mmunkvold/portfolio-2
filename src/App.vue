@@ -9,6 +9,8 @@ import Header from "./components/Header.vue";
   <main>
     <Home />
   </main>
+  
+  <footer>©Monica M Nikolaisen 2022</footer>
 </template>
 
 <style></style>
